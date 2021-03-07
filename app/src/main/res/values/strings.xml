@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="character">Character</string>
+    <string name="location">Location</string>
+    <string name="episode">Episode</string>
+    <string name="namePlace">Rick</string>
+    <string name="statusPlace">Alive</string>
+    <string name="genderPlace">Gender</string>
+    <string name="speciesPlace">Species</string>
+    <string name="originPlace">Los Angeles</string>
+    <string name="locationPlace">Earth</string>
+    <string name="EpisodePlace">10</string>
+    <string name="typePlace">Type</string>
+    <string name="dimensionPlace">Dimension</string>
+    <string name="moreInfo">More Information</string>
+    <string name="characterInfo">Characters that appear in this episode:</string>
+    <string name="channel_name">Episode Frag Name</string>
+    <string name="channel_description">Episode Frag Desc</string>
+</resources>
